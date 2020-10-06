@@ -1,2 +1,1 @@
-# goit-markup-hw-1
-goit homework 1
+https://sbeznosiuk.github.io/goit-markup-hw-1/.
